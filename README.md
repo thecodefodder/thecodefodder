@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodefodder" alt="thecodefodder" /></a> </p>
 
-- 🔭 I’m currently working on [SkidOS](https://github.com/thecodefodder/ShitOS)
+- 🔭 I’m not currently working on anything
 
 - 🌱 I’m currently learning **Scala & Java**
 
