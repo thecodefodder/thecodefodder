@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SkidOS](https://github.com/thecodefodder/ShitOS)
 
-- 🌱 I’m currently learning **C, ASM**
+- 🌱 I’m currently learning **Scala & Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thecodefodder](https://github.com/thecodefodder)
 
