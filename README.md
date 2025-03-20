@@ -7,7 +7,7 @@
 
 - 🔭 I’ currently working on Kelm (my own programming language)
 
-- 🌱 I’m currently learning **Scala & Java**
+- 🌱 I’m currently learning **Odin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thecodefodder](https://github.com/thecodefodder)
 
